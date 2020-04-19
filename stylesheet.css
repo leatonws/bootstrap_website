@@ -1,0 +1,61 @@
+body {background-color: tan;}
+
+
+div { padding: none;
+
+
+}
+a { font-family: "LemonMilk", Serif;
+    color: white;
+    text-decoration: none;
+        padding: 5px;}
+
+.navbar { display: flex;
+         justify-content: flex-end;
+         align-content: space-around;
+}
+
+a:active {color: white;
+            text-decoration: none;
+}
+
+.jumbotron-fluid a { font-family: "LemonMilk", Serif;
+    color: white;
+    text-decoration: none;}
+
+
+.jumbotron-fluid a:hover {color: lightblue;}
+
+
+
+
+a:visited {color: white;}
+
+a:hover {color: lightblue;
+    text-decoration: none;}
+
+
+
+.centered {display: flex;
+        justify-content: center;}
+
+
+
+
+.cover {position: fixed;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+      font-family: "LemonMilk", serif;
+    color: white;}
+
+
+.container-fluid 
+
+h1 {
+    font-family: "LemonMilk", serif;
+    color: white;
+    justify-content: center;}
+
+
+img { }
